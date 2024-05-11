@@ -42,5 +42,5 @@ mlflow server -h 0.0.0.0 --port 5000 --default-artifact-root s3://bucket_name
 
 
 #set uri in your local terminal and in your code 
-export MLFLOW_TRACKING_URI=http://ec2-23-22-160-239.compute-1.amazonaws.com:5000/
+export MLFLOW_TRACKING_URI=http://ec2-23-22-160-239.compute-1.amazonaws.com:5000
 ```
